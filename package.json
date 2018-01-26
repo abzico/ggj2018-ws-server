@@ -1,0 +1,15 @@
+{
+  "name": "ggj2018",
+  "version": "1.0.0",
+  "description": "Backend for ggj2018 game made during game jam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wasin Thonkaew",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
+}
